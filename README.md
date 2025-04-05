@@ -5,7 +5,7 @@
 — Master Yuan-Ma, The Book of Programming 🪄✨
 
 # 🗂️ **API-REST**  
-   >  _What is a API-Rest ❓_ <br>
+   >  _What is a rest-api ❓_ <br>
       <br>**A REST (Representational State Transfer) API is a way for systems to communicate over the internet using the HTTP protocol. It allows different applications (such as websites, apps, or services) to exchange information in a standardized and efficient way.**
 
 🪛 **Tech used :** 
