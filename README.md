@@ -1,9 +1,5 @@
 
-<div align="center">
-   
- <br> ![Image ](https://github.com/user-attachments/assets/950c1e10-ee57-4b76-868c-fda4c9b9bb36)
 
-</div>
 
 # 🗂️ **API-REST**  
    >  _What is a rest-api ❓_ <br>
